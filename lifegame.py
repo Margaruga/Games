@@ -11,7 +11,7 @@ class Config:
     width_window  = 500
     height_window =  500
     width_point   = 5 
-    height_point  = 55
+    height_point  = 5
         
 def terminate():
     pygame.quit()
